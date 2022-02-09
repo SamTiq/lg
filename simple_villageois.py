@@ -1,4 +1,4 @@
-class Piece:
+class SimpleVillager:
     nom=""
     def __init__(self, pos, camp):
         self.pos = pos
